@@ -1,0 +1,15 @@
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\bin\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).exe
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\bin\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).deps.json
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\bin\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).runtimeconfig.json
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\bin\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).dll
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\bin\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).pdb
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).GeneratedMSBuildEditorConfig.editorconfig
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).AssemblyInfoInputs.cache
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).AssemblyInfo.cs
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).csproj.CoreCompileInputs.cache
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).dll
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\refint\NoiDungThucHanh(Bai1&Bai2).dll
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).pdb
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).genruntimeconfig.cache
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\ref\NoiDungThucHanh(Bai1&Bai2).dll
+E:\LuuDuLieuSinhVien\TranKhangDi_Buoi3_Bai5_OnTap\NoiDungThucHanh(Bai1&Bai2)\NoiDungThucHanh(Bai1&Bai2)\obj\Debug\net8.0\NoiDungThucHanh(Bai1&Bai2).sourcelink.json

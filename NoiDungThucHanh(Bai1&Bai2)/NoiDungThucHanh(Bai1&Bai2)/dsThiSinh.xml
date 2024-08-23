@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSThiSinh>
+	<ThiSinh>
+		<MaTS>001</MaTS>
+		<HoTen>A</HoTen>
+		<GTinh>Nu</GTinh>
+		<DLyThuyet>2.9</DLyThuyet>
+		<DThucHanh>7.2</DThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>002</MaTS>
+		<HoTen>B</HoTen>
+		<GTinh>Nam</GTinh>
+		<DLyThuyet>9.9</DLyThuyet>
+		<DThucHanh>6.2</DThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>003</MaTS>
+		<HoTen>C</HoTen>
+		<GTinh>Nam</GTinh>
+		<DLyThuyet>5.9</DLyThuyet>
+		<DThucHanh>4.4</DThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>004</MaTS>
+		<HoTen>D</HoTen>
+		<GTinh>Nu</GTinh>
+		<DLyThuyet>3.7</DLyThuyet>
+		<DThucHanh>8.6</DThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>005</MaTS>
+		<HoTen>E</HoTen>
+		<GTinh>Nu</GTinh>
+		<DLyThuyet>7.9</DLyThuyet>
+		<DThucHanh>6.2</DThucHanh>
+	</ThiSinh>
+</DSThiSinh>
